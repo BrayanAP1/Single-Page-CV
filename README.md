@@ -6,9 +6,8 @@ A simple single-page CV built with HTML as part of the roadmap.sh projects.
 
 https://brayanap1.github.io/Single-Page-CV/
 
-## Repository URL
-
-https://github.com/BrayanAP1/Single-Page-CV
+## roadmap.sh
+https://roadmap.sh/projects/single-page-cv
 
 ## Technologies
 
