@@ -1,12 +1,15 @@
 # Single Page CV
 
-Proyecto realizado como parte de roadmap.sh.
+A simple single-page CV built with HTML as part of the roadmap.sh projects.
 
-## Tecnologías
-- HTML5
+## Project URL
 
-## Cómo ejecutar
-Abrir el archivo index.html en cualquier navegador.
-
-## URL del proyecto
 https://brayanap1.github.io/Single-Page-CV/
+
+## Repository URL
+
+https://github.com/BrayanAP1/Single-Page-CV
+
+## Technologies
+
+- HTML5
