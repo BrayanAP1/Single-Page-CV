@@ -9,4 +9,4 @@ Proyecto realizado como parte de roadmap.sh.
 Abrir el archivo index.html en cualquier navegador.
 
 ## URL del proyecto
-https://github.com/BrayanAP1/Single-Page-CV
+https://brayanap1.github.io/Single-Page-CV/
